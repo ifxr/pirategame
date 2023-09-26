@@ -1,0 +1,9 @@
+TrajectoryPrediction.cs - modified to be 3D from original 2D code written by Ricky Willis of Space Ape Games on July 5, 2016. Accessed on 4/2/2022 at https://tech.spaceapegames.com/2016/07/05/trajectory-prediction-with-unity-physics/
+water normal maps downloaded from https://www.cadhatch.com/seamless-water-textures on 4/11/2022
+water shader graph created following this turorial by Unity https://www.youtube.com/watch?v=gRq-IdShxpU on 4/11/2022
+Menu code reused from Archer's 2D game Necromancy!. repository: https://rijeka.sdsu.edu/ahovey/s22_proj_2a_hovey_archer
+Settings menu created by partly following this tutorial by Brackeys: https://www.youtube.com/watch?v=YOaYQrN1oYQ accessed 2/24/2022
+
+Audio - Author: Gabriel Gershman-Walch {all sound effects and music are from original compositions by the author made using FL Studio}
+
+Font Style - " 'Viking' by Typographer Mediengestaltung" from 1001fonts.com
